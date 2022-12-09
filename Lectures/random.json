@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Aria", "last": "Moore" },
+      "location": {
+        "street": { "number": 1552, "name": "Brougham Street" },
+        "city": "Timaru",
+        "state": "Auckland",
+        "country": "New Zealand",
+        "postcode": 59174,
+        "coordinates": { "latitude": "52.9853", "longitude": "89.2622" },
+        "timezone": {
+          "offset": "+5:30",
+          "description": "Bombay, Calcutta, Madras, New Delhi"
+        }
+      },
+      "email": "aria.moore@example.com",
+      "login": {
+        "uuid": "187b21c0-8831-4f04-8a47-c67906b2485a",
+        "username": "heavyrabbit488",
+        "password": "crescent",
+        "salt": "Gle7arqQ",
+        "md5": "d96bad0fdaf4d2715d25cf96a9bfd0ea",
+        "sha1": "fc648a633efdc6768a3de1f3c78dc277cb4fa6f4",
+        "sha256": "c8033108b172ace45ccf76c792c06993ef3c179fef8a48e289b410586e2e11f6"
+      },
+      "dob": { "date": "1972-01-12T04:26:17.743Z", "age": 50 },
+      "registered": { "date": "2014-03-18T07:39:11.285Z", "age": 8 },
+      "phone": "(371)-353-6701",
+      "cell": "(041)-668-6558",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/3.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "57cd4d5bfe196784",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
