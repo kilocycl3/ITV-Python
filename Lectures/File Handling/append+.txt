@@ -1,0 +1,7 @@
+Hello world
+Writeline method to insert data
+This takes list as an input
+Append+ mode
+Append+ mode with seek mode
+Append+ mode with seek mode
+Append+ mode with seek mode
